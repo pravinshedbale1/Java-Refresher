@@ -1,0 +1,38 @@
+# Java
+*.class
+
+# Mobile tools for Android
+.gradle
+/local.properties
+.DS_Store
+build/
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Mac system files
+.DS_Store
+
+# Eclipse files
+.project
+.classpath
+.settings/
+bin/
+
+# Maven files
+target/
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
